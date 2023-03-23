@@ -8,11 +8,11 @@ Python, R, HTML/CSS, Adobe Illustrator, Premiere Pro, MS Office, Tableau, SAS
 
 ## 💻 RECENT PROJECT
 
-- United Daily News Keyword Extraction
-- LINE Chatbot for Restaurant Recommendations
-- Image Texture Classification with Machine Learning
-- IMDb Top 1000 Movie Recommender
-- High-Frequency Words of the Information that Taiwan FactCheck Foundation Verifies
+- [United Daily News Keyword Extraction](https://github.com/jennyliucl/keyword-extraction)
+- [LINE Chatbot for Restaurant Recommendations](https://github.com/jennyliucl/chatbot-satisfaction-analysis)
+- [Image Texture Classification with Machine Learning](https://github.com/jennyliucl/image-texture-classification)
+- [IMDb Top 1000 Movie Recommender](https://github.com/jennyliucl/movie-recommender)
+- [High-Frequency Words of the Information that Taiwan FactCheck Foundation Verifies](https://github.com/jennyliucl/word-cloud-and-web-scraping)  
 
 ## 🪪 CERTIFICATE
 
@@ -42,20 +42,21 @@ Python, R, HTML/CSS, Adobe Illustrator, Premiere Pro, MS Office, Tableau, SAS
 
 ## 🌱 EXPERIENCE
 
-- 2023 Jan ~ Present 基督教宣道會活水堂團契部與傳道部執事
-- 2021 May ~ Present 基督教宣道會活水堂青年團契主席
-- 2020 Oct ~ Present 基督教宣道會台灣省聯會文字部同工
-- 2023 嘉錦復活聯合主日崇拜暨宣道會兒主老師訓練營 美宣與行政組同工
-- 2022 基督教宣道會活水堂聖誕晚會 海報製作
-- 2021 ~ 2022 基督教宣道會青年部培靈營 美宣組負責人
-- 2020 ~ 2021 基督教宣道會活水堂青年團契副主席
-- 2019 ~ 2022 研究計畫助理
+- 2023 Jan ~ Present 基督教宣道會活水堂 團契部與傳道部執事
+- 2021 May ~ Present 基督教宣道會活水堂 青年團契主席
+- 2021 May ~ Present 基督教宣道會活水堂 社群媒體經營與維護同工 ➡︎ [Facebook](https://www.facebook.com/profile.php?id=100064103646505&mibextid=LQQJ4d) / [YouTube](https://www.youtube.com/@CMA_LivingWaterChurch/featured)
+- 2020 Oct ~ Present 基督教宣道會台灣省聯會 文字部同工 ➡︎ [節期小卡設計](https://jennyliucl.github.io/JennyLiu/img/design/blessing-card) / [網頁維護](https://twcama.fhl.net) / [粉絲專頁維護](https://www.facebook.com/profile.php?id=100082110707001&mibextid=LQQJ4d)
+- 2023 嘉錦復活聯合主日崇拜暨宣道會兒主老師訓練營 美宣與行政組同工 ➡︎ [流程海報設計](https://jennyliucl.github.io/JennyLiu/img/design/poster/2023-teacher-schedule.jpg) / [直播架設](https://www.youtube.com/live/JKnMZtw94OY?feature=share)
+- 2022 基督教宣道會活水堂聖誕晚會 美宣組同工 ➡︎ [海報設計](https://jennyliucl.github.io/JennyLiu/img/design/poster/2022-christmas.png)
+- 2021 ~ 2022 基督教宣道會青年部培靈營 美宣組負責人 ➡︎ [海報設計2021](https://jennyliucl.github.io/JennyLiu/img/design/poster/2021-missionary.png) / [海報設計2022](https://jennyliucl.github.io/JennyLiu/img/design/poster/2022-missionary.png)
+- 2020 ~ 2021 基督教宣道會活水堂 青年團契副主席
+- 2019 ~ 2022 廣東工商職業技術大學 副教授研究計畫助理
 - 2019 智慧時代的商業、經濟與管理國際研討會 服務總召
 - 2019 金管會第十二屆台北公司治理論壇 接待人員
-- 2019 活水堂閱讀寫作營 海報與回顧影片製作
-- 2019 情繫青春兩岸青年申城行 學員
+- 2019 活水堂閱讀寫作營 美宣組同工 ➡︎ [海報設計](https://jennyliucl.github.io/JennyLiu/img/design/poster/2019-writing.png) / [影片製作](https://youtu.be/qcWKQi3aO94)
+- 2019 情繫青春兩岸青年申城行 學員 ➡︎ [VLOG](https://youtu.be/lq_HtXXQl4U)
 - 2018 ~ 2020 高等教育深耕計畫—全英語商用體驗營 學員
-- 2018 ~ 2019 宣道會活水堂聖誕晚會 海報與回顧影片製作
+- 2018 ~ 2019 宣道會活水堂聖誕晚會 美宣組同工 ➡︎ [海報設計2019](https://jennyliucl.github.io/JennyLiu/img/design/poster/2019-christmas.png) / [影片製作2019](https://youtu.be/VEsh_K3Z-mY)
 - 2018 情繫青春兩岸青年榕城行 學員
 - 2018 青年職場體驗營 Php+Mysql動態網頁班 學員
 - 2017 天國小羊牧場兒童夏令營 行政組同工
