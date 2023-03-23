@@ -45,7 +45,7 @@ Python, R, HTML/CSS, Adobe Illustrator, Premiere Pro, MS Office, Tableau, SAS
 - 2023 Jan ~ Present 基督教宣道會活水堂 團契部與傳道部執事
 - 2021 May ~ Present 基督教宣道會活水堂 青年團契主席
 - 2021 May ~ Present 基督教宣道會活水堂 社群媒體經營與維護同工 ➡︎ [Facebook](https://www.facebook.com/profile.php?id=100064103646505&mibextid=LQQJ4d) / [YouTube](https://www.youtube.com/@CMA_LivingWaterChurch/featured)
-- 2020 Oct ~ Present 基督教宣道會台灣省聯會 文字部同工 ➡︎ [節期小卡設計](https://jennyliucl.github.io/JennyLiu/img/design/blessing-card) / [網頁維護](https://twcama.fhl.net) / [粉絲專頁維護](https://www.facebook.com/profile.php?id=100082110707001&mibextid=LQQJ4d)
+- 2020 Oct ~ Present 基督教宣道會台灣省聯會 文字部同工 ➡︎ [網頁維護](https://twcama.fhl.net) / [粉絲專頁維護](https://www.facebook.com/profile.php?id=100082110707001&mibextid=LQQJ4d) / [節期小卡設計1](https://jennyliucl.github.io/JennyLiu/img/design/blessing-card/2021-moon-festival.jpg) / [節期小卡設計2](https://jennyliucl.github.io/JennyLiu/img/design/blessing-card/2022-new-year.png)
 - 2023 嘉錦復活聯合主日崇拜暨宣道會兒主老師訓練營 美宣與行政組同工 ➡︎ [流程海報設計](https://jennyliucl.github.io/JennyLiu/img/design/poster/2023-teacher-schedule.jpg) / [直播架設](https://www.youtube.com/live/JKnMZtw94OY?feature=share)
 - 2022 基督教宣道會活水堂聖誕晚會 美宣組同工 ➡︎ [海報設計](https://jennyliucl.github.io/JennyLiu/img/design/poster/2022-christmas.png)
 - 2021 ~ 2022 基督教宣道會青年部培靈營 美宣組負責人 ➡︎ [海報設計2021](https://jennyliucl.github.io/JennyLiu/img/design/poster/2021-missionary.png) / [海報設計2022](https://jennyliucl.github.io/JennyLiu/img/design/poster/2022-missionary.png)
@@ -63,7 +63,6 @@ Python, R, HTML/CSS, Adobe Illustrator, Premiere Pro, MS Office, Tableau, SAS
 - 2016 ~ 2020 致理科技大學教學助理
 - 2015 圓孩子讀書夢—江翠國小課後輔導 輔導老師
 
-## 🎨 DESIGN
 
 <!--
 **jennyliucl/jennyliucl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
