@@ -1,6 +1,6 @@
 Hi👋
 
-I'm Jenny Liu - a Christian, first-year Master's student in Statistics, and data science enthusiast. I'm also exploring the world of design as a non-pro, learning Adobe Illustrator and Premiere Pro along the way. Excited to see where this journey takes me!
+I'm Jenny Liu - a Christian, second-year Master's student in Statistics, and data science enthusiast. I'm also exploring the world of design as a non-pro, learning Adobe Illustrator and Premiere Pro along the way. Excited to see where this journey takes me!
 
 ## 📌 SKILL
 
